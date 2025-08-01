@@ -1,0 +1,7 @@
+title: Tech Edge Intrepreneur
+description: Turning cutting-edge tech into real-world impact—and income.
+baseurl: ""
+url: "https://nikitakoselev.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
