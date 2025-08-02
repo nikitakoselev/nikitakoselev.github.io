@@ -4,6 +4,8 @@ title: "My First Open Source Tool: GitHub Repo Cleanup"
 date: 2025-08-02 10:00:00 +0300
 ---
 
+👉 [Spoiler Alert - my OSS Project for Github Repositories cleanup](https://github.com/nikitakoselev/github-repositories-cleanup)
+
 Have you ever heard the phrase _"Clean your room first"_ before starting something big?
 
 That's exactly how I kicked off this blog and my AI learning journey — by cleaning up my **cluttered GitHub profile**.
@@ -92,7 +94,7 @@ Because:
 - Others have the same problem
 - It’s a simple but empowering first project
 
-👉 [Check it out on my GitHub](https://github.com/nikitakoselev)
+👉 [Check it out on my GitHub](https://github.com/nikitakoselev/github-repositories-cleanup)
 
 ---
 
