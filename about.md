@@ -32,3 +32,16 @@ This is a builder’s journal — grounded, evolving, and open.
 **This blog will evolve — just like I do.**  
 As I learn, build, and move forward, the content, goals, and tools here will grow with me.  
 You're witnessing the real thing, in motion.
+
+---
+
+## ☕ Support My Work
+
+If you're enjoying the blog or using one of my open source tools:
+
+- 🧑‍💻 [Sponsor me on GitHub](https://github.com/sponsors/nikitakoselev) — best for devs
+- ☕ [Buy me a coffee](https://buymeacoffee.com/2o3yfdbjpo) — fast & easy
+
+Your support helps me keep building useful, independent tools — and sharing everything I learn.
+
+---
