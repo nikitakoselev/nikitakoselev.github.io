@@ -35,6 +35,16 @@ You're witnessing the real thing, in motion.
 
 ---
 
+## 🔗 Connect With Me
+
+- 🧑‍💻 [GitHub](https://github.com/nikitakoselev)
+- 💼 [LinkedIn](https://linkedin.com/in/nikitakoselev)
+- 🐦 [X (Twitter)](https://twitter.com/nikitakoselev)
+- ✍️ [dev.to](https://dev.to/nikitakoselev)
+
+
+---
+
 ## ☕ Support My Work
 
 If you're enjoying the blog or using one of my open source tools:
