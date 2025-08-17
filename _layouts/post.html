@@ -4,6 +4,7 @@ layout: base
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 
   <header class="post-header">
+    <nav class="post-breadcrumb"><a href="{{ '/' | relative_url }}">&larr; Home</a></nav>
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <div class="post-meta">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
@@ -47,14 +48,13 @@ layout: base
   {% endif -%}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
-  <div style="margin-top:2em; padding-top:1em; border-top:1px solid #eee;">
-  <p>If this post helped you or inspired you, consider supporting my work:</p>
-  <a href="https://github.com/sponsors/nikitakoselev" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor%20on-GitHub-black?logo=github" alt="Sponsor on GitHub" />
-  </a>
-  <a href="https://buymeacoffee.com/2o3yfdbjpo" target="_blank" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/Buy%20me%20a-Coffee-ffdd00?logo=buymeacoffee&logoColor=000" alt="Buy me a coffee" />
-  </a>
-</div>
+  <div class="support-links" style="margin-top:2em; padding-top:1em; border-top:1px solid #eee;">
+    <p>If this post helped you, consider supporting my work:</p>
+    <p>
+      <a href="https://github.com/sponsors/nikitakoselev" target="_blank">💖 Sponsor on GitHub</a>
+      ·
+      <a href="https://buymeacoffee.com/2o3yfdbjpo" target="_blank">☕ Buy me a coffee</a>
+    </p>
+  </div>
 
 </article>
