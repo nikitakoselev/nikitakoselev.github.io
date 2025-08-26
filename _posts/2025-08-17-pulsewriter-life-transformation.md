@@ -60,10 +60,10 @@ pulsewriter transform post.md --platforms blog linkedin x devto --out-dir out
 
 And out came four drafts — one for each platform.
 
-![Terminal output showing PulseWriter run](../assets/images/62895882-076f-4f4c-9694-c972bbde40d4.png)
+![Terminal output showing PulseWriter run](/assets/images/62895882-076f-4f4c-9694-c972bbde40d4.png)
 *First successful run in IntelliJ’s terminal.*
 
-![All output files open](../assets/images/84b6717a-a9b6-4674-80ea-4dee7af5d001.png)
+![All output files open](/assets/images/84b6717a-a9b6-4674-80ea-4dee7af5d001.png)
 *The generated drafts — Blog, LinkedIn, X, Dev.to — all open side-by-side.*
 
 ---
@@ -76,10 +76,9 @@ Right now PulseWriter:
 - Saves hours of repetitive formatting.
 
 Here are the first outputs it produced:
-- 📝 [Blog draft](https://raw.githubusercontent.com/nikitakoselev/nikitakoselev.github.io/main/assets/markdown/pulsewriter.blog_md.md)
-- 💼 [LinkedIn draft](https://raw.githubusercontent.com/nikitakoselev/nikitakoselev.github.io/main/assets/markdown/pulsewriter.linkedin_md.md)
-- 🌐 [Dev.to draft](https://raw.githubusercontent.com/nikitakoselev/nikitakoselev.github.io/main/assets/markdown/pulsewriter.devto_md.md)
-- 🐦 [X draft](https://raw.githubusercontent.com/nikitakoselev/nikitakoselev.github.io/main/assets/text/pulsewriter.x_thread.txt)
+- 📝 [Blog draft](/assets/markdown/pulsewriter.blog_md.md)
+- 💼 [LinkedIn draft](/assets/markdown/pulsewriter.linkedin_md.md)
+- 🌐 [Dev.to draft](/assets/markdown/pulsewriter.devto_md.md)
 
 The X version still needs work — but it’s a start. The magic is seeing one idea flow instantly into multiple formats.
 
