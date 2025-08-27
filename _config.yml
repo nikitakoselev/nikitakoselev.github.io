@@ -6,3 +6,10 @@ theme: minima
 plugins:
   - jekyll-feed
 excerpt_separator: "<!--more-->"
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      comments: false
