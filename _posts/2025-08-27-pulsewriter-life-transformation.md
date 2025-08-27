@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "PulseWriter: one microstep in a bigger life transformation"
