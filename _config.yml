@@ -5,3 +5,4 @@ url: "https://nikitakoselev.github.io"
 theme: minima
 plugins:
   - jekyll-feed
+excerpt_separator: "<!--more-->"
