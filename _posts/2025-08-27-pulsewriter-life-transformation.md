@@ -1,7 +1,8 @@
+
 ---
 layout: post
 title: "PulseWriter: one microstep in a bigger life transformation"
-date: 2025-08-17
+date: 2025-08-27
 categories: [open-source, business-transformation, ai, automation]
 ---
 
