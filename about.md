@@ -47,7 +47,7 @@ You're witnessing the real thing, in motion.
 
 ## ☕ Support My Work
 
-If you're enjoying the blog or using one of my open source tools:
+Please consider supporting my work:
 
 - 🧑‍💻 [Sponsor me on GitHub](https://github.com/sponsors/nikitakoselev) — best for devs
 - ☕ [Buy me a coffee](https://buymeacoffee.com/2o3yfdbjpo) — fast & easy
