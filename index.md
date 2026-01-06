@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Home Base
 ---
 
 Welcome to **Tech Edge Intrapreneur** — a public journal of building freedom, income, and purpose with cutting-edge tech.
