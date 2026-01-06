@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Highlights
+title: "Highlights"
 permalink: /highlights/
 ---
 
-Selected moments and wins. More details are linked from each entry.
+# Highlights
+
+A short list of recent highlights and recognitions.
